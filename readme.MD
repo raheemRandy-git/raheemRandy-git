@@ -7,7 +7,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=raheemRandy-git&label=Profile%20Views&color=0e75b6&style=flat" />
 
 #
-<h2 align="center">👋 Hi, I'm Raheem Shaik</h2>
+<h1 align="center">👋 Hi, I'm Raheem Shaik</h1>
 
 ### DevOps Engineer @ Tata Consultancy Services
 
