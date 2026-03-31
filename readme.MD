@@ -3,6 +3,8 @@
 </div>
 <div align="center">
 
+<div align="center">
+
 # 👋 Hi, I'm Raheem Shaik
 
 ### DevOps Engineer @ Tata Consultancy Services
@@ -13,17 +15,11 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/raheemshaik-devops/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/raheemRandy-git">
-  <img src="https://img.shields.io/badge/GitHub-Profile-333333?logo=github&style=for-the-badge"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:raheemshaik2404@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&style=for-the-badge"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat)](https://www.linkedin.com/in/raheemshaik-devops/)
+  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-333333?logo=github\&style=flat)](https://github.com/raheemRandy-git)
+  
+[![Email](https://img.shields.io/badge/Email-raheemshaik2404@gmail.com-red?logo=gmail\&style=flat)](mailto:raheemshaik2404@gmail.com)
 
 </div>
 
