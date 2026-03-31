@@ -81,17 +81,16 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 ## 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathak-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=raheemRandy-git&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemRandy-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheemRandy-git&theme=tokyonight" />
 </p>
-
----
 
 ## 🐍 Contribution Graph
 
