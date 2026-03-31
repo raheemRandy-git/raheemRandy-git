@@ -76,29 +76,24 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 
 ---
 
-
-
-
 # 🚀 My GitHub Dashboard
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" />
+<img src="https://raw.githubusercontent.com/raheemRandy-git/raheemRandy-git/main/profile-3d-contrib/profile-gitblock.svg" />
 
 ---
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raheemRandy-git&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raheemRandy-git&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raheemRandy-git&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raheemRandy-git&layout=donut&theme=tokyonight&cache_seconds=1800)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raheemRandy-git)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raheemRandy-git&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raheemRandy-git)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raheemRandy-git&theme=tokyonight)
 
 ---
-<h2 align="left">🐍 Contribution Graph</h2>
 
+## 🐍 Contribution Graph
 
-<p align="left">
-  <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+<img src="https://raw.githubusercontent.com/raheemRandy-git/raheemRandy-git/output/github-contribution-grid-snake.svg" />
