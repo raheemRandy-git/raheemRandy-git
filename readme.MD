@@ -6,7 +6,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=raheemRandy-git&label=Profile%20Views&color=0e75b6&style=flat" />
 
-# 👋 Hi, I'm Raheem Shaik
+#
+<h2 align="center">👋 Hi, I'm Raheem Shaik</h2>
 
 ### DevOps Engineer @ Tata Consultancy Services
 
@@ -25,7 +26,7 @@
 I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
 
 ---
-<h2 align="center">⚙️ My DevOps Arsenal</h2>
+<h2 align="left">⚙️ My DevOps Arsenal</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
