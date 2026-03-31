@@ -45,12 +45,18 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 ---
 
-<h2 align="left">🔧 What I Do</h2>
 
 
-<p align="left">
-I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terraform</b>, design and optimize <b>CI/CD pipelines</b> with <b>Jenkins</b> and <b>GitHub Actions</b>, and deploy containerized applications using <b>Docker</b> and <b>Kubernetes (EKS)</b>. I implement <b>GitOps workflows</b> with <b>Argo CD</b>, integrate <b>DevSecOps practices</b>, and enhance system reliability using <b>Prometheus</b>, <b>Grafana</b>, and <b>ELK Stack</b>, while automating workflows with <b>Shell scripting</b> and <b>Python</b>.
-</p>
+
+## 🔧 What I Do
+
+* Build and manage scalable cloud infrastructure on **AWS** using **Terraform**
+* Design and optimize **CI/CD pipelines** with **Jenkins** and **GitHub Actions**
+* Deploy containerized applications using **Docker** and **Kubernetes (EKS)**
+* Implement **GitOps workflows** using **Argo CD** for automated deployments
+* Integrate **DevSecOps practices** with automated security scanning
+* Enhance system reliability using **Prometheus**, **Grafana**, and **ELK Stack**
+* Automate workflows using **Shell scripting** and **Python**
 
 ---
 <h2 align="left">💼 Real-World Impact</h2>
