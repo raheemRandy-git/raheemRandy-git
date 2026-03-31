@@ -75,6 +75,9 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 
 
 
-## 🐍 Contribution Graph
+## 🟡 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raheemRandy-git/raheemRandy-git/output/pacman.svg" />
+</p>
 
