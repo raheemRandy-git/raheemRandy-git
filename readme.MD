@@ -105,11 +105,6 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 ## 📊 GitHub Activity
 
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raheemRandy-git&show_icons=true&theme=tokyonight&hide_border=true&hide=title" />
-</p>
-
-<h3 align="center">raheemRandy-git</h3>
 
 
 
