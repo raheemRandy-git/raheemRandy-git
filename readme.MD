@@ -26,7 +26,7 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 ---
 
-<h2 align="left">⚙️ My DevOps Arsenal</h2>
+<h2 align="left">⚙️ My Arsenal</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
@@ -47,7 +47,7 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 
 
-## 🔧 What I Do
+## 🔧 What I Ship
 
 * 🛠️ Build and manage scalable infrastructure on **AWS** using **Terraform** for secure and repeatable provisioning
 * 🚀 Design and optimize **CI/CD pipelines** using **Jenkins** and **GitHub Actions** for faster and reliable deployments
@@ -60,7 +60,7 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 
 ---
-## 💼 Career Snapshot
+## 🚀 Deployed & Running
 
 ### 🏢 Tata Consultancy Services
 
