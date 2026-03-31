@@ -1,8 +1,8 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman Style Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,17 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Pacman
+      - name: Generate Pacman Style Snake
         uses: Platane/snk@v3
         with:
           github_user_name: raheemRandy-git
           outputs: |
-            dist/pacman.svg
+            dist/pacman.svg?palette=github-dark&color_snake=#FFD700&color_dots=#FFFF00,#FFD700,#FFA500,#FF4500
 
-      - name: Push to repo
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
