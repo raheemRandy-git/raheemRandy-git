@@ -25,10 +25,9 @@
 I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
 
 ---
-
 ## ⚙️ My DevOps Arsenal
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
@@ -46,51 +45,62 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 ## 🔧 What I Do
 
-I build and manage scalable cloud infrastructure on **AWS** using **Terraform**, design and optimize **CI/CD pipelines** with **Jenkins** and **GitHub Actions**, and deploy containerized applications using **Docker** and **Kubernetes (EKS)**. I implement **GitOps workflows** with **Argo CD**, integrate **DevSecOps practices**, and enhance system reliability using **Prometheus**, **Grafana**, and **ELK Stack**, while automating workflows with **Shell scripting** and **Python**.
+<p align="left">
+I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terraform</b>, design and optimize <b>CI/CD pipelines</b> with <b>Jenkins</b> and <b>GitHub Actions</b>, and deploy containerized applications using <b>Docker</b> and <b>Kubernetes (EKS)</b>. I implement <b>GitOps workflows</b> with <b>Argo CD</b>, integrate <b>DevSecOps practices</b>, and enhance system reliability using <b>Prometheus</b>, <b>Grafana</b>, and <b>ELK Stack</b>, while automating workflows with <b>Shell scripting</b> and <b>Python</b>.
+</p>
 
 ---
 
 ## 💼 Real-World Impact
 
-### 🚀 BASF – Cloud-Native DevOps Implementation *(TCS)*
+<p align="left">
 
+<b>🚀 BASF – Cloud-Native DevOps Implementation (TCS)</b><br>
 📅 Jun 2024 – Present
 
-* Built and deployed containerized applications using Docker & Kubernetes (EKS)
-* Designed CI/CD pipelines using Jenkins & GitHub Actions
-* Implemented GitOps using Argo CD
-* Integrated DevSecOps with security scanning
-* Set up monitoring using Prometheus, Grafana & ELK Stack
+<ul>
+<li>Built and deployed containerized applications using Docker & Kubernetes (EKS)</li>
+<li>Designed CI/CD pipelines using Jenkins & GitHub Actions</li>
+<li>Implemented GitOps using Argo CD</li>
+<li>Integrated DevSecOps with security scanning</li>
+<li>Set up monitoring using Prometheus, Grafana & ELK Stack</li>
+</ul>
 
----
-
-### ☁️ MedGenome – Infrastructure Automation & DevOps *(TCS)*
-
+<b>☁️ MedGenome – Infrastructure Automation & DevOps (TCS)</b><br>
 📅 Jun 2023 – Jun 2024
 
-* Automated infrastructure provisioning using Terraform
-* Implemented configuration management using Ansible
-* Managed Linux servers ensuring high availability
-* Developed AWS Lambda automation for S3 workflows
-* Improved system reliability and reduced downtime
+<ul>
+<li>Automated infrastructure provisioning using Terraform</li>
+<li>Implemented configuration management using Ansible</li>
+<li>Managed Linux servers ensuring high availability</li>
+<li>Developed AWS Lambda automation for S3 workflows</li>
+<li>Improved system reliability and reduced downtime</li>
+</ul>
+
+</p>
 
 ---
 
 ## 😄 DevOps Reality Check
 
-> "Worked on my machine" is not a deployment strategy 😄
-> I turn coffee ☕ into automation scripts and bugs 🐞 into monitoring alerts 🚨
+<p align="left">
+"Worked on my machine" is not a deployment strategy 😄  
+I turn coffee ☕ into automation scripts and bugs 🐞 into monitoring alerts 🚨  
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=raheemRandy-git&theme=tokyonight&show_icons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raheemRandy-git&theme=dark"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raheemRandy-git&theme=tokyonight&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raheemRandy-git&theme=dark"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg"/>
-
+<p align="left">
+  <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg"/>
+</p>
