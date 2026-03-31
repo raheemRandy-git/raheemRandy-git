@@ -54,31 +54,28 @@ I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terrafor
 <h2 align="left">💼 Real-World Impact</h2>
 
 
-<p align="left">
+## 💼 Real-World Impact
 
-<b>🚀 BASF – Cloud-Native DevOps Implementation (TCS)</b><br>
+**🚀 BASF – Cloud-Native DevOps Implementation (TCS)**
 📅 Jun 2024 – Present
 
-<ul>
-<li>Built and deployed containerized applications using Docker & Kubernetes (EKS)</li>
-<li>Designed CI/CD pipelines using Jenkins & GitHub Actions</li>
-<li>Implemented GitOps using Argo CD</li>
-<li>Integrated DevSecOps with security scanning</li>
-<li>Set up monitoring using Prometheus, Grafana & ELK Stack</li>
-</ul>
+* Built and deployed containerized applications using **Docker** & **Kubernetes (EKS)**
+* Designed and implemented **CI/CD pipelines** using **Jenkins** & **GitHub Actions**
+* Implemented **GitOps workflows** using **Argo CD** for automated deployments
+* Integrated **DevSecOps practices** with security scanning
+* Set up monitoring using **Prometheus**, **Grafana** & **ELK Stack**
 
-<b>☁️ MedGenome – Infrastructure Automation & DevOps (TCS)</b><br>
+---
+
+**☁️ MedGenome – Infrastructure Automation & DevOps (TCS)**
 📅 Jun 2023 – Jun 2024
 
-<ul>
-<li>Automated infrastructure provisioning using Terraform</li>
-<li>Implemented configuration management using Ansible</li>
-<li>Managed Linux servers ensuring high availability</li>
-<li>Developed AWS Lambda automation for S3 workflows</li>
-<li>Improved system reliability and reduced downtime</li>
-</ul>
+* Automated infrastructure provisioning using **Terraform**
+* Implemented configuration management using **Ansible**
+* Managed **Linux servers** ensuring high availability
+* Developed **AWS Lambda** automation for S3-based workflows
+* Improved system reliability and reduced downtime
 
-</p>
 
 ---
 
