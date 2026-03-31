@@ -33,13 +33,13 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,github" />
+   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="45"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="45" style="filter: invert(1);"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+ 
 </p>
 
 ---
