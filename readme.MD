@@ -71,14 +71,20 @@ I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terrafor
 
 ---
 
-**☁️ MedGenome – Infrastructure Automation & DevOps (TCS)**
+<div align="left">
+
+<b>☁️ MedGenome – Infrastructure Automation & DevOps (TCS)</b><br>
 📅 Jun 2023 – Jun 2024
 
-* Automated infrastructure provisioning using **Terraform**
-* Implemented configuration management using **Ansible**
-* Managed **Linux servers** ensuring high availability
-* Developed **AWS Lambda** automation for S3-based workflows
-* Improved system reliability and reduced downtime
+<ul>
+<li>Automated infrastructure provisioning using Terraform</li>
+<li>Implemented configuration management using Ansible</li>
+<li>Managed Linux servers ensuring high availability</li>
+<li>Developed AWS Lambda automation for S3-based workflows</li>
+<li>Improved system reliability and reduced downtime</li>
+</ul>
+
+</div>
 
 
 ---
