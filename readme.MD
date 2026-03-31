@@ -60,40 +60,15 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 
 ---
-<h2 align="left">💼 Real-World Impact</h2>
+## 💼 Career Snapshot
 
+🏢 **Tata Consultancy Services**
 
-<div align="left">
+🔹 **Senior DevOps Engineer**
+Leading cloud-native DevOps initiatives, designing scalable infrastructure on **AWS**, optimizing **CI/CD pipelines**, and driving automation and reliability across production systems.
 
-<b>🚀 BASF – Cloud-Native DevOps Implementation (TCS)</b><br>
-📅 Jun 2024 – Present
-
-<ul>
-<li>Built and deployed containerized applications using Docker & Kubernetes (EKS)</li>
-<li>Designed CI/CD pipelines using Jenkins & GitHub Actions</li>
-<li>Implemented GitOps using Argo CD</li>
-<li>Integrated DevSecOps with security scanning</li>
-<li>Set up monitoring using Prometheus, Grafana & ELK Stack</li>
-</ul>
-
-</div>
-
-
-
-<div align="left">
-
-<b>☁️ MedGenome – Infrastructure Automation & DevOps (TCS)</b><br>
-📅 Jun 2023 – Jun 2024
-
-<ul>
-<li>Automated infrastructure provisioning using Terraform</li>
-<li>Implemented configuration management using Ansible</li>
-<li>Managed Linux servers ensuring high availability</li>
-<li>Developed AWS Lambda automation for S3-based workflows</li>
-<li>Improved system reliability and reduced downtime</li>
-</ul>
-
-</div>
+🔹 **DevOps Engineer**
+Built and deployed applications using **Docker** and **Kubernetes (EKS)**, implemented **CI/CD pipelines** with Jenkins and GitHub Actions, and automated infrastructure using **Terraform** and **Ansible**.
 
 
 ---
