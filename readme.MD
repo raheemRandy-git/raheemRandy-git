@@ -18,9 +18,8 @@
   
 [![Email](https://img.shields.io/badge/Email-raheemshaik2404@gmail.com-red?logo=gmail\&style=flat)](mailto:raheemshaik2404@gmail.com)
 
-</div>
 
-<hr style="border:none; border-top:0.1px solid #d0d7de; margin:10px 0;">
+
 I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
 </div>
 
