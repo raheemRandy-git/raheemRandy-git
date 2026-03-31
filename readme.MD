@@ -77,13 +77,23 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 ---
 
 
-<h2 align="left">📊 GitHub Stats</h2>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheemRandy-git&theme=tokyonight&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raheemRandy-git&theme=dark"/>
-</p>
+# 🚀 My GitHub Dashboard
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" />
+
+---
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raheemRandy-git&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raheemRandy-git&layout=donut)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raheemRandy-git)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raheemRandy-git)
 
 ---
 <h2 align="left">🐍 Contribution Graph</h2>
