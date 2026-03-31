@@ -20,13 +20,13 @@
 
 </div>
 
----
 
 I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
 </div>
 
 
 ---
+
 <h2 align="left">⚙️ My DevOps Arsenal</h2>
 
 <p align="left">
@@ -71,7 +71,7 @@ I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terrafor
 
 </div>
 
----
+
 
 <div align="left">
 
