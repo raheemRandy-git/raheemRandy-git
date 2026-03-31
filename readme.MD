@@ -27,7 +27,8 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 ---
 
 <h2 align="left">⚙️ My Arsenal</h2>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker" />
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,github" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
 <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
