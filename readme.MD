@@ -31,7 +31,9 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 
 <!-- Kubernetes & Docker -->
-<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="48"/>
+</a>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
 
 <!-- GitHub Actions / Jenkins / GitHub -->
