@@ -54,16 +54,20 @@ I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terrafor
 <h2 align="left">💼 Real-World Impact</h2>
 
 
-## 💼 Real-World Impact
+<div align="left">
 
-**🚀 BASF – Cloud-Native DevOps Implementation (TCS)**
+<b>🚀 BASF – Cloud-Native DevOps Implementation (TCS)</b><br>
 📅 Jun 2024 – Present
 
-* Built and deployed containerized applications using **Docker** & **Kubernetes (EKS)**
-* Designed and implemented **CI/CD pipelines** using **Jenkins** & **GitHub Actions**
-* Implemented **GitOps workflows** using **Argo CD** for automated deployments
-* Integrated **DevSecOps practices** with security scanning
-* Set up monitoring using **Prometheus**, **Grafana** & **ELK Stack**
+<ul>
+<li>Built and deployed containerized applications using Docker & Kubernetes (EKS)</li>
+<li>Designed CI/CD pipelines using Jenkins & GitHub Actions</li>
+<li>Implemented GitOps using Argo CD</li>
+<li>Integrated DevSecOps with security scanning</li>
+<li>Set up monitoring using Prometheus, Grafana & ELK Stack</li>
+</ul>
+
+</div>
 
 ---
 
