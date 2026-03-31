@@ -2,10 +2,9 @@
     <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/main/git-banner.png" alt="GitHub Banner" width="800"/>
 </div>
 <div align="center">
+<div>
 
-<table>
-<tr>
-<td>
+<img align="right" src="https://komarev.com/ghpvc/?username=raheemRandy-git&label=Profile%20Views&color=0e75b6&style=flat" />
 
 # 👋 Hi, I'm Raheem Shaik
 
@@ -13,30 +12,17 @@
 
 🚀 AWS | Kubernetes | Docker | CI/CD | Terraform
 
-</td>
-
-<td align="right">
-
-<img src="https://komarev.com/ghpvc/?username=raheemRandy-git&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat)](https://www.linkedin.com/in/raheemshaik-devops/)
   
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@raheemshaik2404)
-
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium\&style=flat)](#)
+  
 [![Email](https://img.shields.io/badge/Email-raheemshaik2404@gmail.com-red?logo=gmail\&style=flat)](mailto:raheemshaik2404@gmail.com)
 
 </div>
 
 ---
 
-I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure.
-I specialize in automation, CI/CD pipelines, Kubernetes deployments, and cloud-native solutions on AWS.
+I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
 
 ---
 
@@ -48,19 +34,19 @@ I specialize in automation, CI/CD pipelines, Kubernetes deployments, and cloud-n
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
   <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="45" style="filter: invert(1);"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="45" style="filter: invert(1);"/>
 </p>
 
 ---
 
 ## 🔧 What I Do
 
-I build and manage scalable cloud infrastructure on **AWS** using **Terraform**, design and optimize **CI/CD pipelines**...
+I build and manage scalable cloud infrastructure on **AWS** using **Terraform**, design and optimize **CI/CD pipelines** with **Jenkins** and **GitHub Actions**, and deploy containerized applications using **Docker** and **Kubernetes (EKS)**. I implement **GitOps workflows** with **Argo CD**, integrate **DevSecOps practices**, and enhance system reliability using **Prometheus**, **Grafana**, and **ELK Stack**, while automating workflows with **Shell scripting** and **Python**.
 
 ---
 
@@ -72,7 +58,7 @@ I build and manage scalable cloud infrastructure on **AWS** using **Terraform**,
 
 * Built and deployed containerized applications using Docker & Kubernetes (EKS)
 * Designed CI/CD pipelines using Jenkins & GitHub Actions
-* Implemented GitOps using Argo CD for automated deployments
+* Implemented GitOps using Argo CD
 * Integrated DevSecOps with security scanning
 * Set up monitoring using Prometheus, Grafana & ELK Stack
 
@@ -90,6 +76,10 @@ I build and manage scalable cloud infrastructure on **AWS** using **Terraform**,
 
 ---
 
+## 😄 DevOps Reality Check
+
+> "Worked on my machine" is not a deployment strategy 😄
+> I turn coffee ☕ into automation scripts and bugs 🐞 into monitoring alerts 🚨
 
 ---
 
