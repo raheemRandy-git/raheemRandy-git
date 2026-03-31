@@ -20,8 +20,9 @@
 
 </div>
 
-
+<div>
 I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
+</div>
 </div>
 
 
