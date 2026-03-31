@@ -3,7 +3,9 @@
 </div>
 <div align="center">
 
-<div align="center">
+<table>
+<tr>
+<td>
 
 # 👋 Hi, I'm Raheem Shaik
 
@@ -11,14 +13,22 @@
 
 🚀 AWS | Kubernetes | Docker | CI/CD | Terraform
 
-<img src="https://komarev.com/ghpvc/?username=raheemRandy-git&label=Profile%20Views&color=0e75b6&style=flat" />
+</td>
 
-<br><br>
+<td align="right">
+
+<img src="https://komarev.com/ghpvc/?username=raheemRandy-git&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat)](https://www.linkedin.com/in/raheemshaik-devops/)
   
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-333333?logo=github\&style=flat)](https://github.com/raheemRandy-git)
-  
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@raheemshaik2404)
+
 [![Email](https://img.shields.io/badge/Email-raheemshaik2404@gmail.com-red?logo=gmail\&style=flat)](mailto:raheemshaik2404@gmail.com)
 
 </div>
@@ -32,34 +42,25 @@ I specialize in automation, CI/CD pipelines, Kubernetes deployments, and cloud-n
 
 ## ⚙️ My DevOps Arsenal
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
   <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="45" style="filter: invert(1);"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="45"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
 </p>
 
 ---
 
 ## 🔧 What I Do
 
-* 🛠️ Build and manage infrastructure on **AWS** using **Terraform**
-* 🚀 Design and implement **CI/CD pipelines** using Jenkins & GitHub Actions
-* 📦 Deploy applications using **Docker & Kubernetes (EKS)**
-* 🔄 Implement **GitOps workflows** using Argo CD
-* 🔐 Integrate **DevSecOps practices** with automated security scanning
-* 🤖 Automate workflows using **Shell scripting & Python**
-* 📊 Enable observability using **Prometheus, Grafana & ELK Stack**
+I build and manage scalable cloud infrastructure on **AWS** using **Terraform**, design and optimize **CI/CD pipelines**...
 
 ---
 
@@ -89,12 +90,6 @@ I specialize in automation, CI/CD pipelines, Kubernetes deployments, and cloud-n
 
 ---
 
-## 😄 DevOps Reality Check
-
-> "Worked on my machine" is not a deployment strategy 😄
->
-> I turn coffee ☕ into automation scripts
-> and bugs 🐞 into monitoring alerts 🚨
 
 ---
 
