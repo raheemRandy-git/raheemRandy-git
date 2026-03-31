@@ -25,7 +25,7 @@
 I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
 
 ---
-## ⚙️ My DevOps Arsenal
+<h2 align="center">⚙️ My DevOps Arsenal</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
@@ -43,15 +43,16 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 ---
 
-## 🔧 What I Do
+<h2 align="left">🔧 What I Do</h2>
+
 
 <p align="left">
 I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terraform</b>, design and optimize <b>CI/CD pipelines</b> with <b>Jenkins</b> and <b>GitHub Actions</b>, and deploy containerized applications using <b>Docker</b> and <b>Kubernetes (EKS)</b>. I implement <b>GitOps workflows</b> with <b>Argo CD</b>, integrate <b>DevSecOps practices</b>, and enhance system reliability using <b>Prometheus</b>, <b>Grafana</b>, and <b>ELK Stack</b>, while automating workflows with <b>Shell scripting</b> and <b>Python</b>.
 </p>
 
 ---
+<h2 align="left">💼 Real-World Impact</h2>
 
-## 💼 Real-World Impact
 
 <p align="left">
 
@@ -81,16 +82,9 @@ I build and manage scalable cloud infrastructure on <b>AWS</b> using <b>Terrafor
 
 ---
 
-## 😄 DevOps Reality Check
 
-<p align="left">
-"Worked on my machine" is not a deployment strategy 😄  
-I turn coffee ☕ into automation scripts and bugs 🐞 into monitoring alerts 🚨  
-</p>
+<h2 align="left">📊 GitHub Stats</h2>
 
----
-
-## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=raheemRandy-git&theme=tokyonight&show_icons=true"/>
@@ -98,8 +92,8 @@ I turn coffee ☕ into automation scripts and bugs 🐞 into monitoring alerts �
 </p>
 
 ---
+<h2 align="left">🐍 Contribution Graph</h2>
 
-## 🐍 Contribution Graph
 
 <p align="left">
   <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg"/>
