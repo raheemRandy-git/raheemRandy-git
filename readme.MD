@@ -27,25 +27,20 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 ---
 
 <h2 align="left">⚙️ My Arsenal</h2>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,github" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,github" />
-   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="45"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" height="45"/>
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
  
 </p>
 
 ---
-
-
-
 
 ## 🔧 What I Ship
 
