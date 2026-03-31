@@ -62,11 +62,13 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 📅 Jun 2023 – Present
 
-#### 🔹 Senior DevOps Engineer<br>Leading cloud-native deployments on **AWS** using **Kubernetes (EKS)** and **Terraform** for scalable infrastructure.
+#### 🔹 Senior DevOps Engineer<br>
+Leading cloud-native deployments on **AWS** using **Kubernetes (EKS)** and **Terraform** for scalable infrastructure.
 Designing and optimizing **CI/CD pipelines** with **Jenkins** and **GitHub Actions** to improve deployment efficiency.
 Driving **automation, monitoring, and DevSecOps practices** to enhance system reliability and performance.
 
-#### 🔹 DevOps Engineer<br>Built and deployed containerized applications using **Docker** and **Kubernetes**, ensuring high availability.
+#### 🔹 DevOps Engineer<br>
+Built and deployed containerized applications using **Docker** and **Kubernetes**, ensuring high availability.
 Automated infrastructure provisioning using **Terraform** and configuration management with **Ansible**.
 Implemented **GitOps workflows**, monitoring solutions, and resolved production issues to improve system stability.
 
@@ -75,7 +77,7 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 
 
 
-## 🟡 Contribution Graph
+## 🐍 GitHub Contribution
 
 
 
