@@ -106,8 +106,10 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheemRandy-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raheemRandy-git&show_icons=true&theme=tokyonight&hide_border=true&hide=title" />
 </p>
+
+<h3 align="center">raheemRandy-git</h3>
 
 
 
