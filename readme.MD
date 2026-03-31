@@ -28,7 +28,7 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 ## ⚙️ My DevOps Arsenal
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
@@ -85,19 +85,12 @@ I build and manage scalable cloud infrastructure on **AWS** using **Terraform**,
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheemRandy-git&theme=tokyonight&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raheemRandy-git&theme=dark"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=raheemRandy-git&theme=tokyonight&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raheemRandy-git&theme=dark"/>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+<img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg"/>
 
----
-
-⭐ *Focused on building scalable DevOps systems and continuously improving cloud automation*
