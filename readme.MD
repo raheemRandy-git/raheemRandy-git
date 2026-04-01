@@ -19,7 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-raheemshaik2404@gmail.com-red?logo=gmail\&style=flat)](mailto:raheemshaik2404@gmail.com)
 
 
-
 I'm a passionate **DevOps Engineer with 3+ years of experience** in building scalable, secure, and highly available cloud infrastructure. I specialize in automation, **CI/CD pipelines**, **Kubernetes deployments**, and cloud-native solutions on **AWS**.
 </div>
 
@@ -28,7 +27,6 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 <h2 align="left">⚙️ My Arsenal</h2>
 <p>
-
 
 <!-- Kubernetes & Docker -->
 <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
@@ -64,8 +62,6 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
 <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 
-
-
  
 </p>
 
@@ -82,7 +78,6 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 * 🤖 Automate operational tasks using **Shell scripting** and **Python** to reduce manual effort
 * ⚙️ Manage and maintain **Linux systems** ensuring stability and performance
 
-
 ---
 ## 🚀 Deployed & Running
 
@@ -90,24 +85,15 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 📅 Jun 2023 – Present
 
-#### 🔹 Senior DevOps Engineer<br>
-Leading cloud-native deployments on **AWS** using **Kubernetes (EKS)** and **Terraform** for scalable infrastructure.
-Designing and optimizing **CI/CD pipelines** with **Jenkins** and **GitHub Actions** to improve deployment efficiency.
-Driving **automation, monitoring, and DevSecOps practices** to enhance system reliability and performance.
+#### 🔹 Senior DevOps Engineer<br> 
+Designed and deployed **containerized applications** using **Docker** on **Kubernetes (EKS)** with **Helm charts**, reducing image size by **30%** and enabling **highly available blue-green deployments** with **zero downtime**. Configured **Kubernetes components** including **RBAC**, **Ingress Controllers**, and **Horizontal Pod Autoscaler (HPA)**, improving **scalability** and **system availability by 30%**. Migrated **CI/CD pipelines** from **Jenkins** to **GitHub Actions** by creating **reusable workflows** and **centralized pipelines**, enhancing **deployment reliability and efficiency**. Implemented **GitOps practices** using **Argo CD** to ensure **consistent and automated multi-environment deployments**. Integrated **DevSecOps** with a **shift-left approach** by incorporating **SAST**, **dependency scanning**, and **container image scanning** into **CI/CD pipelines**, strengthening **application security**. Established **monitoring and logging solutions** using **Prometheus**, **Grafana**, and **ELK Stack**, reducing **incident response time by 25%** through proactive issue detection.
 
 #### 🔹 DevOps Engineer<br>
-Built and deployed containerized applications using **Docker** and **Kubernetes**, ensuring high availability.
-Automated infrastructure provisioning using **Terraform** and configuration management with **Ansible**.
-Implemented **GitOps workflows**, monitoring solutions, and resolved production issues to improve system stability.
+Managed and maintained **Linux servers** to ensure **high system stability** and **minimal downtime** through **proactive monitoring** and **rapid issue resolution**. Automated **routine operational tasks** such as **backups** and **health checks** using **Shell scripting**, significantly improving **efficiency** and reducing **manual effort**. Implemented **configuration management** with **Ansible** by developing **standardized playbooks** and **roles** for **consistent and scalable provisioning**. Built **modular Terraform-based Infrastructure as Code (IaC)** to accelerate **infrastructure provisioning by 30%** while eliminating **configuration drift**. Transitioned from **Git Flow** to a **feature branching strategy** to streamline **microservices development** and enable **faster release cycles**. Developed **AWS Lambda functions** triggered by **S3 events** to automate **file processing workflows**, enhancing **real-time data processing capabilities**. Collaborated closely with **development teams** to troubleshoot **production issues** and optimize **application performance**, ensuring **faster incident resolution**.
 
 ---
 
 ## 📊 GitHub Activity
-
-
-
-
-
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raheemRandy-git&theme=tokyonight" />
@@ -115,8 +101,6 @@ Implemented **GitOps workflows**, monitoring solutions, and resolved production 
 
 
 ## 🐍 GitHub Contribution
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raheemRandy-git/raheemRandy-git/output/pacman.svg" />
