@@ -107,5 +107,7 @@ Managed and maintained **Linux servers** to ensure **high system stability** and
 </p>
 
 <p align="center">
+<b style="color:#FF69B4; text-shadow: 0 0 8px #FF69B4;">
   🐳 Thanks for visiting my container — this profile is ready for continuous integration & deployment 🚀
+</b>
 </p>
