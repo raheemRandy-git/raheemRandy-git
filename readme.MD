@@ -107,5 +107,5 @@ Managed and maintained **Linux servers** to ensure **high system stability** and
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=60&section=header&text=Thanks%20for%20visiting%20my%20container%20🚀&fontColor=ffffff&fontSize=20" />
+  <img src="https://img.shields.io/badge/🐳_Thanks_for_visiting_my_container—CI/CD_ready_🚀-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 </p>
