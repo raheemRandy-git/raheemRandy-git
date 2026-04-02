@@ -102,7 +102,6 @@ Managed and maintained **Linux servers** to ensure **high system stability** and
 
 ## 🐍 GitHub Contribution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raheemRandy-git/raheemRandy-git/output/pacman.svg" />
-</p>
+
+![Snake animation](https://github.com/raheemRandy-git/raheemRandy-git/blob/output/snake.svg)
 
