@@ -106,3 +106,6 @@ Managed and maintained **Linux servers** to ensure **high system stability** and
   <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+<p align="center">
+  🐳 Thanks for visiting my container — this profile is ready for continuous integration & deployment 🚀
+</p>
