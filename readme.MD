@@ -103,6 +103,6 @@ Managed and maintained **Linux servers** to ensure **high system stability** and
 ## 🐍 GitHub Contribution
 
 <p align="center">
-  <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/snake.svg" />
+  <img src="https://github.com/raheemRandy-git/raheemRandy-git/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
