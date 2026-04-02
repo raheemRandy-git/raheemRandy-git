@@ -107,5 +107,5 @@ Managed and maintained **Linux servers** to ensure **high system stability** and
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐳_Thanks_for_visiting_my_container—CI/CD_ready_🚀-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  🐳 Thanks for visiting my container — this profile is ready for continuous integration & deployment 🚀
 </p>
