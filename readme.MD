@@ -30,13 +30,13 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 <!-- Kubernetes & Docker -->
 <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
-
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
 
-<!-- GitHub Actions / Jenkins / GitHub -->
+<!-- GitHub Actions / Jenkins / -->
 <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
 <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" />
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+
+
 
 <!-- Custom Icons -->
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" title="Helm" />
@@ -48,19 +48,24 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" />
 <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" />
 
+<!-- Git -->
+<img src="https://skillicons.dev/icons?i=git" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" />
+
 <!-- Monitoring -->
 <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
 <img src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
 <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" />
 
-<!-- Git -->
-<img src="https://skillicons.dev/icons?i=git" title="Git" />
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=python" title="Python" />
 <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
 <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+
+<!-- Jira  -->
+<img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="48" title="Jira" />
 
  
 </p>
