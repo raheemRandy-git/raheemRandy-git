@@ -88,10 +88,14 @@ I'm a passionate **DevOps Engineer with 3+ years of experience** in building sca
 
 ### 🏢 Tata Consultancy Services
 
-📅 Jun 2023 – Present
+📅 Jun 2023 – May 2026
 
 #### 🔹 DevOps Engineer<br> 
 Designed and deployed **containerized applications** using **Docker** on **Kubernetes (EKS)** with **Helm charts**, reducing image size by **30%** and enabling **highly available blue-green deployments** with **zero downtime**. Configured **Kubernetes components** including **RBAC**, **Ingress Controllers**, and **Horizontal Pod Autoscaler (HPA)**, improving **scalability** and **system availability by 30%**. Migrated **CI/CD pipelines** from **Jenkins** to **GitHub Actions** by creating **reusable workflows** and **centralized pipelines**, enhancing **deployment reliability and efficiency**. Implemented **GitOps practices** using **Argo CD** to ensure **consistent and automated multi-environment deployments**. Integrated **DevSecOps** with a **shift-left approach** by incorporating **SAST**, **dependency scanning**, and **container image scanning** into **CI/CD pipelines**, strengthening **application security**. Established **monitoring and logging solutions** using **Prometheus**, **Grafana**, and **ELK Stack**, reducing **incident response time by 25%** through proactive issue detection.
+
+### 🏢 Pace IT solutions
+
+📅 Jun 2022 – June 2023
 
 #### 🔹 Associate DevOps Engineer<br>
 Managed and maintained **Linux servers** to ensure **high system stability** and **minimal downtime** through **proactive monitoring** and **rapid issue resolution**. Automated **routine operational tasks** such as **backups** and **health checks** using **Shell scripting**, significantly improving **efficiency** and reducing **manual effort**. Implemented **configuration management** with **Ansible** by developing **standardized playbooks** and **roles** for **consistent and scalable provisioning**. Built **modular Terraform-based Infrastructure as Code (IaC)** to accelerate **infrastructure provisioning by 30%** while eliminating **configuration drift**. Transitioned from **Git Flow** to a **feature branching strategy** to streamline **microservices development** and enable **faster release cycles**. Developed **AWS Lambda functions** triggered by **S3 events** to automate **file processing workflows**, enhancing **real-time data processing capabilities**. Collaborated closely with **development teams** to troubleshoot **production issues** and optimize **application performance**, ensuring **faster incident resolution**.
