@@ -8,7 +8,7 @@
 <div align="center">
 <h1 align="center">👋 Hi, I'm Raheem Shaik</h1>
 
-### DevOps Engineer @ Tata Consultancy Services
+### DevOps Engineer @ Tata Consultancy Services | Immediate joiner
 
 🚀 AWS | Kubernetes | Docker | CI/CD | Terraform
 
